@@ -1,6 +1,5 @@
 # finding-aid
 A finding aid for my homework assignment.
-
 <Reference_Code>775</Reference_Code>
 <Location>Lawrence Public Library, 707 Vermont St., Lawrence, KS, 66044</Location>
 <Title>Jacob Albert Bowler Papers</Title>
